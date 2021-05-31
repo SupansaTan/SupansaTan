@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Supansa</h1>
-<h3 align="center">A passionate front-end developer.</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supansatan&show_icons=true&locale=en&layout=compact" alt="supansatan" /></p>
+### 📊 Github Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SupansaTan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supansatan&hide=VHDL&layout=compact&langs_count=6" />
+</p>
